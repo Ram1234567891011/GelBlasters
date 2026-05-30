@@ -66,7 +66,7 @@ const units=[
 {
   name:'TianGong ARP9 V3',
   category:'high',
-  gallery:['images/ARP9V3.png','images/AP9V3C.png'],
+  gallery:['images/ARP9V3C.png','images/AP9V3.png'],
   description:'Premium high-end ARP9 gel blaster featuring full nylon construction, metal gearbox, blowback system, built-in hop-up, and XT30 power platform for superior performance.',
   fps:'280 FPS',
   battery:'11.1V Rechargeable Battery (XT30)',
