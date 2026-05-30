@@ -363,10 +363,10 @@ freebies:['Battery','Charger','Magazine']
 },
 ///MPX///
 
-/*{
+{
   name:'MPX MID END',
   category:'mid',
-  gallery:['images/SENMA/MPX1.jpg','images/SENMA/MPX2.jpg','images/SENMA/MPX3.jpg'],
+  gallery:['images/MPXB.jpg','images/MPXB1.jpg','images/MPXS.jpg'],
   description:'Mid-end MPX style gel blaster with compact CQB design, durable nylon construction, and smooth electric firing system.',
   fps:'150 Stock FPS',
   battery:'7.4V Rechargeable Battery',
@@ -387,7 +387,7 @@ freebies:['Battery','Charger','Magazine']
     'Rear Sight',
     'Starter Gel Balls'
   ]
-},*/
+},
 
 ///Vector///
 {
@@ -571,11 +571,11 @@ freebies:['Battery','Charger','Magazine']
   ]
 },
 */
-/*
+
 {
   name:'AR15',
   category:'high',
-  gallery:['images/AR15.jpg'],
+  gallery:['images/AR15S.jpg'],
   description:'AR15 tactical gel blaster featuring adjustable stock and optic-ready platform.',
   fps:'150 Stock FPS',
   battery:'7.4V Rechargeable Battery',
@@ -595,7 +595,7 @@ freebies:['Battery','Charger','Magazine']
     'Tactical Scope',
     'Gel Balls'
   ]
-},*/
+},
 
 /*
 {
