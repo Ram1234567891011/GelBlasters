@@ -63,6 +63,54 @@ const units=[
   ]
 },
 
+{
+  name:'TianGong ARP9 V3',
+  category:'high',
+  gallery:['images/TianGong-ARP9-V3.jpg'],
+  description:'Premium high-end ARP9 gel blaster featuring full nylon construction, metal gearbox, blowback system, built-in hop-up, and XT30 power platform for superior performance.',
+  fps:'280 FPS',
+  battery:'11.1V Rechargeable Battery (XT30)',
+  material:'Full Nylon Body',
+  gearbox:'Metal Gearbox',
+  gears:'Metal Gears',
+  barrel:'Metal Inner Barrel',
+  range:'25-30 Meters Effective Range',
+  fireRate:'8-9 RPS',
+  weight:'1.7kg',
+  size:'60cm',
+  ammo:'7-8mm Gel Balls',
+  features:[
+    '280 FPS High Performance',
+    'Electric Firing System',
+    'Semi Auto + Full Auto + Safe Mode',
+    'Full Nylon Body Construction',
+    'Metal Gearbox',
+    'Metal Gears',
+    'Metal Inner Barrel',
+    'Built-in Hop Up',
+    'Realistic Blowback System',
+    'Magazine Prime Function',
+    'XT30 Battery Connector',
+    '25-30 Meter Effective Range',
+    'Upgradable Platform',
+    'Lightweight 1.7kg Build',
+    'Compatible with Drum & Stick Magazines'
+  ],
+  freebies:[
+    '11.1V XT30 Battery',
+    'Battery Charger',
+    'Drum Magazine',
+    'Slim Magazine',
+    'Tactical Bag',
+    'Holographic Sight',
+    'Front Sight',
+    'Rear Sight',
+    'Vertical Grip',
+    'Gel Balls'
+  ]
+}, 
+  
+
 /*M4 A1 V2*/
 
 {
