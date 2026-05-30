@@ -574,7 +574,7 @@ freebies:['Battery','Charger','Magazine']
 
 {
   name:'AR15',
-  category:'high',
+  category:'mid',
   gallery:['images/AR15S.jpg'],
   description:'AR15 tactical gel blaster featuring adjustable stock and optic-ready platform.',
   fps:'150 Stock FPS',
