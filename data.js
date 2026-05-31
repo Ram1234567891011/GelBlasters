@@ -109,6 +109,54 @@ const units=[
     'Gel Balls'
   ]
 }, 
+
+{
+  name:'JINGJI SLR V3',
+  category:'premium',
+  gallery:['images/JJSLR.jpg','images/JJSLR1.jpg'],
+  description:'Premium high-end SLR gel blaster built with a full nylon body and extensive metal components. Features realistic blowback action, dual bolt release controls, XT30 power system, and long-range performance for serious gel blaster enthusiasts.',
+  fps:'280-300 FPS',
+  battery:'7.4V Rechargeable XT30 Battery',
+  material:'Full Nylon Body',
+  gearbox:'Enhanced Gearbox',
+  gears:'Metal Gears',
+  barrel:'Metal Inner & Outer Barrel',
+  suppressor:'Metal Suppressor',
+  range:'30-35 Meters Effective Range',
+  fireMode:'Semi Auto + Full Auto',
+  weight:'1.9kg',
+  size:'63cm',
+  ammo:'7-8mm Gel Balls',
+  features:[
+    '280-300 FPS High Performance',
+    'Full Nylon Body Construction',
+    'Metal Gear Set',
+    'Metal Inner Barrel',
+    'Metal Outer Barrel',
+    'Metal Suppressor',
+    'Metal Charging Lever',
+    'Metal Trigger',
+    'Metal Blowback System',
+    'Metal Buffer Tube',
+    'Metal Fire Selector',
+    'Metal Magazine Release',
+    'Dual Bolt Release (Left & Right)',
+    'Functional Bolt Catch',
+    'Realistic Blowback Action',
+    'Magazine Prime Function',
+    'XT30 Battery Connector',
+    '30-35 Meter Effective Range',
+    'Semi Auto Mode',
+    'Full Auto Mode',
+    'Upgradable Platform'
+  ],
+  freebies:[
+    '7.4V XT30 Battery',
+    'Battery Charger',
+    'Safety Shades',
+    'Gel Bullets'
+  ]
+}, 
   
 
 /*M4 A1 V2*/
