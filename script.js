@@ -30,7 +30,7 @@ document.getElementById('modalImage').src=currentGallery[currentIndex];
 document.getElementById('modalTitle').innerText=currentUnit.name;
 document.getElementById('modalDesc').innerText=currentUnit.description;
 document.getElementById('modalStats').innerHTML=`<div>${currentUnit.fps}</div><div>${currentUnit.battery}</div>`;
-document.getElementById('modalPrice').textContent = unit.price || 'Contact for Price';
+//document.getElementById('modalPrice').textContent = unit.price || 'Contact for Price';
 document.getElementById('featureList').innerHTML=currentUnit.features.map(f=>`<li>${f}</li>`).join('');
 document.getElementById('freebieList').innerHTML=currentUnit.freebies.map(f=>`<li>${f}</li>`).join('');
 }
